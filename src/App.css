@@ -1,0 +1,11 @@
+.output-area {
+    text-align: left;
+    background: #1a1a1a;
+    color: #0f0; /* Hacker green text */
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+    overflow-x: auto;
+    white-space: pre-wrap; /* Wraps long text */
+    font-family: monospace;
+}
